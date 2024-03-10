@@ -1,5 +1,5 @@
 import React from 'react';
-
+// Section titles 
 const SectionTitle = ({title}) => {
   return (
     <div>
