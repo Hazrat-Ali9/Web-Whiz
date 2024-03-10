@@ -1,7 +1,7 @@
 import CoverFlow from '../../../Components/CoverFlow';
 import TestimonialSlider from '../../../Components/TestimonialSlider';
 import RightTitle from '../../../Shared/RightTitle/RightTitle';
-
+// Review
 const Reviews = () => {
   return (
     <div>
