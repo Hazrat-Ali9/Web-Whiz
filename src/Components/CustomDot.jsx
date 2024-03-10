@@ -1,4 +1,5 @@
 export const CustomDot = ({ onClick, active }) => (
+  // Custom
   <button
     type="button"
     onClick={onClick}
