@@ -9,6 +9,8 @@ import Skills from './Skills/Skills';
 import Information from './Information/Information';
 import Reviews from './Reviews/Reviews';
 
+// Skill 
+
 const Home = () => {
   return (
     <div>
