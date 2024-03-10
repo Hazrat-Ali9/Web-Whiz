@@ -11,7 +11,7 @@ import NextArrow from '../../Components/Banner/NextArrow';
 import BlogLeft from './BlogLeft';
 import backgroundImage from '../../assets/images/blogbg.png'
 
-
+// blog 
 const Blog = () => {
    var settings = {
       dots: false,
