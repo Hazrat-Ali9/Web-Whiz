@@ -11,6 +11,8 @@ import { Link } from 'react-router-dom';
 import { FaGlobe, FaLocationArrow, FaMailBulk, FaPhone } from "react-icons/fa";
 import FooterTitle from '../FooterTitle/FooterTitle';
 
+
+// Footer
 const Footer = () => {
   return (
     <div>
