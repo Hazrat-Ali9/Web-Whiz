@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#sidebar a.active {
+  color: white;
+  background: #185AD9;
+}
+.slick-slide > div{
+margin: 0 10px;
+}
+
+.slick-dots li.slick-active button:before{
+  color: #185AD9 !important;
+  font-size: 1rem !important;
+}
+
+
+
+  

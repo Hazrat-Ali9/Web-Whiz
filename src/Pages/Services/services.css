@@ -1,0 +1,5 @@
+.bg-img{
+  background-image: url('../../assets/images/servicebg.png');
+  background-position: center;
+  background-size: cover;
+}
