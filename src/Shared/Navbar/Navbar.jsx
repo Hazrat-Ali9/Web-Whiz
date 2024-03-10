@@ -6,6 +6,8 @@ import Container from '../Container/Container';
 import logo from '../../assets/logo.png'
 import RoudedBtn from "../RoudedBtn/RoudedBtn";
 
+
+// Navbar
 const Navbar = () => {
 	
   return (
