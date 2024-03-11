@@ -16,6 +16,7 @@ import Cat from '../../Components/Cat';
 
 import { useState } from 'react';
 
+// Portfolio
 console.log(data);
 
 const Portfolio = () => {
